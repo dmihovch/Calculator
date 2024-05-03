@@ -1,5 +1,21 @@
-.title{
-	font-size: 20px;
-	color: #000;
+#title {
+	font-size: 50px;
+	color: tan;
 	margin-bottom: 20px;
+}
+#title-container {
+	position:absolute;
+	left:50%;
+	top:10%;
+	transform: translate(-50%,-50%);
+	width:230px;
+}
+#number-button-wrapper {
+	display:flex;
+	flex-flow:column wrap;
+	
+}
+.number-buttons {
+	height:25px;
+	width:25px;
 }

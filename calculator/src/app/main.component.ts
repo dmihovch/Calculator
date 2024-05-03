@@ -1,4 +1,4 @@
-import html from "./main.component.html";
+import html from "./main.component.html"
 import css from "./main.component.css";
 import { EzComponent } from '@gsilber/webez';
 
